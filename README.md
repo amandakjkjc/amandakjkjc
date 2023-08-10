@@ -2,7 +2,7 @@
 
 Meu nome é Amanda Corrêa
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
